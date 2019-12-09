@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "bonecraft:bonesworditem"
+  },
+  "pattern": [
+    " O ",
+    " O ",
+    " X "
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "minecraft:stick"
+    },
+    "O": {
+      "item": "minecraft:bone"
+    }
+  }
+}

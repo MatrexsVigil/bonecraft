@@ -1,0 +1,15 @@
+{
+  "result": {
+    "item": "bonecraft:bonehelmitem"
+  },
+  "pattern": [
+    "OOO",
+    "O O"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "O": {
+      "item": "minecraft:bone"
+    }
+  }
+}

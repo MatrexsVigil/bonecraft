@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "bonecraft:bonepickaxeitem"
+  },
+  "pattern": [
+    "OOO",
+    " X ",
+    " X "
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "minecraft:stick"
+    },
+    "O": {
+      "item": "minecraft:bone"
+    }
+  }
+}

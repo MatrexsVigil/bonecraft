@@ -1,0 +1,16 @@
+{
+    "itemGroup.tabBonecraft": "BoneCraft",
+
+    "block.bonecraft.fossil": "Fossil",
+
+    "item.bonecraft.boneaxeitem": "Bone Axe",
+    "item.bonecraft.bonehoeitem": "Bone Hoe",
+    "item.bonecraft.bonepickaxeitem": "Bone Pickaxe",
+    "item.bonecraft.boneshovelitem": "Bone Shovel",
+    "item.bonecraft.bonesworditem": "Bone Sword",
+
+    "item.bonecraft.bonehelmitem": "Bone Helm",
+    "item.bonecraft.bonechestitem": "Bone Chest",
+    "item.bonecraft.bonelegsitem": "Bone Legs",
+    "item.bonecraft.bonebootsitem": "Bone Boots"
+}
